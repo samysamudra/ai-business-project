@@ -1,7 +1,7 @@
 # ai-business-project
 Group project for AI Business class, college coursework.
 
-KELOMPOK 4:
+Kelompok 4:
 - Hantyanta Suryo A (079)
 -  Ahmad Samy Samudra (033)
 -   Hardika Setya (077)
